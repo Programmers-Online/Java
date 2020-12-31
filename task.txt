@@ -1,0 +1,10 @@
+1. Create a file named MyBio.java
+2. Create the class as same as file name (Without extension)
+3. Calling the main method inside the class 
+4. Inside the main method print your name / your hobbies / and the favourite books 
+5. Save the file
+6. Compile the source file using [javac]
+7. Run the program using [java]
+8. Check if has errors and fix it
+9. Share the code / program with me.. :-)
+10. Be positive
