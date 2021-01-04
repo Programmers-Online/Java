@@ -1,0 +1,15 @@
+1. create a file named PersonData.java
+2. make a main method inside that class
+3. declare and assign a variable for person's name initial letter [personInitial]
+4. declare and assign a variable for body temperature [bodyTemp]
+5. declare and assign a variable for age [pAge]
+6. declare and assign a variable phone number [phoneNumber]
+7. declare and assign a variable is alive [isAlive]
+8. Print all the details on Standard Output 
+9. Save the file
+10. Compile the source code / source file
+11. Run the program 
+12. See if errors and fixed it.
+13. Share the code
+14. Collaborate with others
+15. Be Positive
