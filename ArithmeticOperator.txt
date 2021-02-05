@@ -1,0 +1,13 @@
+Arithmetic Operator => An operator that does the various mathematical / Arithmetic operators.
++ => Addition (unary plus)
+- => Substraction (unary minus)
+* => Multiplication 
+/ => Division
+% => Modulus 
+++ => Increment
+-- => Decrement
++= => Addition Assignment
+-= => Substraction Assignment
+*= => Multiplication Assignment
+/= => Division Assignment
+%= => Modulus Assignment
