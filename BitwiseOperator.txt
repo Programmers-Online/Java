@@ -1,0 +1,19 @@
+Bitwise Operator => A bitwise operators in a type of Java Operator that deals with Bit / Byte manipulation
+int , long, char, short , byte 
+
+1010 => int = 10
+
+Bitwise Operators Types
+~ => Bitwise Unary NOT
+& => Bitwise AND
+| => Bitwise OR
+^ => Bitwise XOR (eXclusive OR)
+>> => Shift Right
+>>> => Shift Right Zero Fill
+<< => Shift Left
+&= => Bitwise AND assignment
+|= => Bitwise OR assignment
+^= => Bitwise XOR assignment (eXclusive OR)
+>>= => Shift Right assignment
+>>>= => Shift Right Zero fill assignment
+<<= => Shift Left assignment
