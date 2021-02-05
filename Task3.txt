@@ -1,0 +1,8 @@
+1. Create a new file Calculator.java
+2. Implement main method into Calculator class
+3. Take two variables named num1 and num2
+4. Assign a value to num1 and num2 respectively (50, 7)
+5. Use the Arithmetic operations and print them onto your Standard Output [Don't use another variable]
+6. Save the file / Compile the Source code / Run the program
+7. Fix that bugs if exists.
+8. Share the code / program with me @ discord server / Github
