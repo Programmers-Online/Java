@@ -1,0 +1,9 @@
+Operators is defined as a symbolic instructions in Java that does different kind of operations based on their symbol / instructions .
+1. Arithmetic Operators
+2. Bitwise Operators
+3. Relational Operators
+4. Logical Operators
+
+Ternary Operator ?
+Lambda Operator ->
+InstanceOf Operator InstanceOf
