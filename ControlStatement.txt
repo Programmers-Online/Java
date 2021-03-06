@@ -1,0 +1,6 @@
+Definition: Control Statements are the cause of the flows of execution.
+
+Type of Control Statements: 
+- Selection => It gives our program to choose different paths of execution based upon the result of state, variable, or the expression
+- Iteration => Iteration Statements allows our program to execute the block of programming statement once or more.
+- jump => Allows our program to execute in non-linear fashion.
