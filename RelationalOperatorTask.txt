@@ -1,0 +1,11 @@
+Relational operator
+
+1. Create a file (RelationOperatorTask.java)
+2. Create variable named 'a' create another variable named 'b'
+3. Variable type should Integer.
+4. Assign integer values to integer variables
+5. Make it both cases (true / false) [a != b => true, false]
+6. Use Print the result (a == b => false / true)
+7. Track the errors, try to solve yourself. ask to the community in the discord server / ask in the below comment box.
+8. Share the code or program.
+9. Appreciate your work and yourself too. :-)
