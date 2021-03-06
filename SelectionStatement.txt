@@ -1,0 +1,17 @@
+'if' =>
+'switch' => 
+
+if(variable/state/expression) {
+
+} else if (variable/state/expression){
+
+} else {
+
+}
+
+switch (variable/state/expression) {
+   case 1:
+      // dome something
+      break; // return true;
+   default:
+}
