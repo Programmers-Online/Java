@@ -1,0 +1,9 @@
+Definition: The relational operator determines the relation between two operands
+
+Kinds of Relational Operator: 
+( == ) => Equal to 
+( != ) => Not Equal to
+( < ) => Less than
+( > ) => Greater than
+( <= ) => Less than or equal to
+( >= ) => Greater than or equal to
