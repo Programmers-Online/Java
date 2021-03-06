@@ -1,0 +1,7 @@
+1. Create a file named LeapYear.java
+2. Define a variable named year [int]
+3. Check weather the year is leap year or not.
+4. Output of the program should be like => The year is not a leap year / The year is a leap year.
+5. Track the errors => Discussion in community / find the solution for that error in internet. Write to comment section.
+6. Share you code / program.
+7. Practice on Previous tasks / tutorials
